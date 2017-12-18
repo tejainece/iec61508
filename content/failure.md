@@ -2,11 +2,9 @@ This article documents the definition of different type of failures as documente
 
 # Random hardware failure
 
-Failure occuring at a random time due to degradation mechanism in hardware.
+Failure occuring at a random time due to degradation mechanism in hardware. Usually, in a system, there are multiple degaradations occuring at different rates in different components. These degradations occur at *predictable rate but at unpredictable times*.
 
-Usually, in a system, there are multiple degaradations occuring at different rates in different components.
-
-These degradations occur at predictable rate but at unpredictable times.
+These failures cannot be fixed by changes to design since they are the unavoidable properties of the components of the system.
 
 ## References
 
