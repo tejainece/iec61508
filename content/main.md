@@ -1,10 +1,22 @@
 
 ---
 
+# Safe state
+
+> TODO
+
+## Examples of Safe state
+
+> TODO
+
+## References
+
+> TODO
+
 # Safety function
 
 Safety function is a function (or feature) implemented by the safety system. The purpose of this function is to maintain
-a [safe state]() when a hazardous event occurs in the system.
+a [safe state](#safe-state) when a hazardous event occurs in the system.
 
 ## References
 
