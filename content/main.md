@@ -42,8 +42,15 @@ Safety integrity comprises of:
 
 # Systematic capability
 
-> TODO
+Measure of the *confidence* that the Systematic safety integrity of an element meets the requirement of the specified SIL.
+
+In other words, this measure the confidence that the element under consideration has no design faults.
+
+## Reference
+
++ IEC61508-4 3.5.9
 
 # TODO
 
 + [ ] Define safe state
++ [ ] Safety manual
