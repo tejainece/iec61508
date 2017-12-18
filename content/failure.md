@@ -64,6 +64,10 @@ Erroneous changes to data content without any changes to the physical circuit it
 
 Following a soft error has occured, the circuit will be restored to its original state when the effected data is corrected.
 
+## Example
+
++ Flippening of a one or more bits in RAM memory of a processor
+
 ## References
 
 + IEC61508-4 3.6.12
