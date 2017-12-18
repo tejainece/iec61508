@@ -52,7 +52,7 @@ These failures cannot be fixed by changes to design since they are the unavoidab
 
 # Error
 
-> TODO
+Discrepancy between a computed, observed or measure value and the correct, specified or theorectically correct value or condition.
 
 ## References
 
@@ -60,7 +60,9 @@ These failures cannot be fixed by changes to design since they are the unavoidab
 
 # Soft error
 
-> TODO
+Erroneous changes to data content without any changes to the physical circuit itself.
+
+Following a soft error has occured, the circuit will be restored to its original state when the effected data is corrected.
 
 ## References
 
