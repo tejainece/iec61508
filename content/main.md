@@ -19,6 +19,11 @@ All causes of failures (Random hardware failures and Systematic failures) that l
 + Software induced failures
 + Failures due to electrical interferences
 
+Safety integrity comprises of:
++ Software safety integrity
++ Systematic safety integrity
++ Hardware safety integrity
+
 ## References
 
 + IEC61508-4 3.5.4
